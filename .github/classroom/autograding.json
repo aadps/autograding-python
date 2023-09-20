@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test",
+      "setup": "sudo -H pip3 install pytest pytest-md pytest-emoji getgist; export GETGIST_TOKEN=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; getgist aadps hello_test.py",
+      "run": "pytest --emoji -v --md report.md",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
