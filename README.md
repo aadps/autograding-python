@@ -1,4 +1,4 @@
-![Grades](https://github.com/Kellett-School/a1-aadps/actions/workflows/classroom.yml/badge.svg)
+[![Classroom Workflow](https://github.com/Kellett-School/a1-aadps/actions/workflows/classroom.yml/badge.svg)](https://github.com/Kellett-School/a1-aadps/actions/workflows/classroom.yml)
 
 # Autograding Example: Python
 This example project is written in Python, and tested with pytest.
