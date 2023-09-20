@@ -1,6 +1,6 @@
-[![Classroom Workflow](../../actions/workflows/classroom.yml/badge.svg)](../../actions/workflows/classroom.yml)
-
 # Autograding Example: Python
+[![Classroom Workflow](../../actions/workflows/classroom.yml/badge.svg)](../../releases/latest)
+
 This example project is written in Python, and tested with pytest.
 
 ### The assignment
