@@ -1,4 +1,4 @@
-[![Classroom Workflow](actions/workflows/classroom.yml/badge.svg)](actions/workflows/classroom.yml)
+[![Classroom Workflow](../../actions/workflows/classroom.yml/badge.svg)](../../actions/workflows/classroom.yml)
 
 # Autograding Example: Python
 This example project is written in Python, and tested with pytest.
